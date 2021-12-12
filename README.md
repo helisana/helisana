@@ -2,8 +2,8 @@
 
 - 💻 Atualmente estou fazendo estágio em front-end 
 - 📚 Estou no 6º período de Sistemas de Informação 
-- 📫 Contate-me no email: helisana.santos@outlook.com
-- 😄 Pronouns: ela/dela ...
+- 📫 Email: helisana.santos@outlook.com
+- 😄 Pronome: ela/dela
 -->
 <br>
 <div align="center">
