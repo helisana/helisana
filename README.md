@@ -1,7 +1,7 @@
 ### Olá, eu sou a Helisana 👋
 
-- 💻 Atualmente estou fazendo estágio em front-end 
-- 📚 Estou no 6º período de Sistemas de Informação 
+- 💻 Frontend Developer 
+- 📚 Sistemas de Informação - PUCPR 
 - 📫 Email: helisana.santos@outlook.com
 - 😄 Pronome: ela/dela
 -->
